@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  printf("Olá mundo! Meu nome é 1berto!");
+  return 0;
+}
